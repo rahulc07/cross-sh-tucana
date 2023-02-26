@@ -1,5 +1,5 @@
-# cross-sh
-A Universal set of scripts to build cross compilers
+# cross-sh-tucana
+A Universal set of scripts to build cross compilers (FOR TUCANA ONLY)
 
 This builds a linux cross toolchain from scratch for basically and architecture and a variety of C libraries.
 
